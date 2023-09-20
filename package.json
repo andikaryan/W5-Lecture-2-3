@@ -1,0 +1,15 @@
+{
+  "name": "w5-lecture-2",
+  "version": "1.0.0",
+  "description": "latihan npm",
+  "main": "index.js",
+  "scripts": {
+    "stag": "node index.js",
+    "dev": "node test.js"
+  },
+  "author": "Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
